@@ -22,6 +22,6 @@ This automation tool is tailored to help job seekers efficiently apply to multip
 3. The tool will start the automation process, applying to job listings based on the configurations provided.
 
 ## Other Relevant Information
-- The tool was inspired by another GitHub project (please provide the specific project or link if you have it).
+- The tool was inspired by another GitHub project.
 - For safety reasons, always keep your login credentials secure and avoid sharing the `config.py` file or pushing it to public repositories.
 
